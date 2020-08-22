@@ -1,0 +1,13 @@
+C:\Users\Simon\source\repos\TCP Socket File Transfer Client\TCP Socket File Transfer Client\bin\Debug\netcoreapp3.1\TCP Socket File Transfer Client.exe
+C:\Users\Simon\source\repos\TCP Socket File Transfer Client\TCP Socket File Transfer Client\bin\Debug\netcoreapp3.1\TCP Socket File Transfer Client.deps.json
+C:\Users\Simon\source\repos\TCP Socket File Transfer Client\TCP Socket File Transfer Client\bin\Debug\netcoreapp3.1\TCP Socket File Transfer Client.runtimeconfig.json
+C:\Users\Simon\source\repos\TCP Socket File Transfer Client\TCP Socket File Transfer Client\bin\Debug\netcoreapp3.1\TCP Socket File Transfer Client.runtimeconfig.dev.json
+C:\Users\Simon\source\repos\TCP Socket File Transfer Client\TCP Socket File Transfer Client\bin\Debug\netcoreapp3.1\TCP Socket File Transfer Client.dll
+C:\Users\Simon\source\repos\TCP Socket File Transfer Client\TCP Socket File Transfer Client\bin\Debug\netcoreapp3.1\TCP Socket File Transfer Client.pdb
+C:\Users\Simon\source\repos\TCP Socket File Transfer Client\TCP Socket File Transfer Client\obj\Debug\netcoreapp3.1\TCP Socket File Transfer Client.csprojAssemblyReference.cache
+C:\Users\Simon\source\repos\TCP Socket File Transfer Client\TCP Socket File Transfer Client\obj\Debug\netcoreapp3.1\TCP Socket File Transfer Client.csproj.CoreCompileInputs.cache
+C:\Users\Simon\source\repos\TCP Socket File Transfer Client\TCP Socket File Transfer Client\obj\Debug\netcoreapp3.1\TCP Socket File Transfer Client.AssemblyInfoInputs.cache
+C:\Users\Simon\source\repos\TCP Socket File Transfer Client\TCP Socket File Transfer Client\obj\Debug\netcoreapp3.1\TCP Socket File Transfer Client.AssemblyInfo.cs
+C:\Users\Simon\source\repos\TCP Socket File Transfer Client\TCP Socket File Transfer Client\obj\Debug\netcoreapp3.1\TCP Socket File Transfer Client.dll
+C:\Users\Simon\source\repos\TCP Socket File Transfer Client\TCP Socket File Transfer Client\obj\Debug\netcoreapp3.1\TCP Socket File Transfer Client.pdb
+C:\Users\Simon\source\repos\TCP Socket File Transfer Client\TCP Socket File Transfer Client\obj\Debug\netcoreapp3.1\TCP Socket File Transfer Client.genruntimeconfig.cache
