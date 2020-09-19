@@ -9,7 +9,7 @@ namespace TCP_Socket_File_Transfer_Client
         {
             threadClass thClass = new threadClass();
             Thread setPerformaceThread = new Thread(thClass.setPerformace);
-            //setPerformaceThread.Start();
+            setPerformaceThread.Start();
 
             SeFTT SF = new SeFTT();
 
@@ -28,21 +28,24 @@ namespace TCP_Socket_File_Transfer_Client
 
                 switch (command)
                 {
-                    case "&-SeFTT":
+                    case "SeFTT":
                         Console.WriteLine();
                         SF.SeFTT_Run();
 
                         break;
 
-                    case "&-Info":
-                        Console.WriteLine("\n" + frontCommand + "'&-' is a command used for navigation through the server." + "\n");
+                    case "Info":
                         Console.WriteLine("'&-SeFTT' Socket. File. Transfer. TCP Client" + "\n" + "Used for trnsfer of files.");
-
+                        Console.WriteLine("Use 'cls to clear the promt'" + "\n");
+                        Console.WriteLine("'Start_Server_Instace' start the instace of the server." + "\n");
                         Console.Write(frontCommand);
                         break;
-                    case "&-Start_Server_Instace":
+                    case "Start_Server_Instace":
                         Console.WriteLine();
                         SF_S.SeFTT_Server();
+                        break;
+                    case "Cls":
+                        Console.Clear();
                         break;
                 }
 
